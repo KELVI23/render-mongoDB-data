@@ -1,0 +1,10 @@
+{
+    "cyberpatient" :{
+       "host":"cluster0.upcyw.mongodb.net",
+        "port":"27017",
+        "collection":"cyberpatient",
+        "username":"readonly",
+        "password":"meds.2021"
+}
+
+}

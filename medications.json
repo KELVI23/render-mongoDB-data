@@ -1,0 +1,402 @@
+[
+  {
+    "_id": "5f2c99cb1d79460011cf9106",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Sodium fluoride",
+    "dose": "50mL solution",
+    "description": "Caries prophylactic agents",
+    "cost": 0
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9107",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Chlorhexidine ",
+    "dose": "10% solution",
+    "description": "Antiinfectives and antiseptics for local oral treatment",
+    "cost": 0
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9108",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Clotrimazole ",
+    "dose": "1% Ointment",
+    "description": "Antiinfectives and antiseptics for local oral treatment",
+    "cost": 0.7
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9109",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Hydrogen peroxide",
+    "dose": "3% solution",
+    "description": "Antiinfectives and antiseptics for local oral treatment",
+    "cost": 0.18
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf910a",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Tetracycline ",
+    "dose": "1% Ointment",
+    "description": "Antiinfectives and antiseptics for local oral treatment",
+    "cost": 0.37
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf910b",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Alfacalcidol/Vitamin D Analogue",
+    "dose": "0.1% Oral gel",
+    "description": "Corticosteroids for local oral treatment",
+    "cost": 0
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf910c",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Triamcinolone",
+    "dose": "0.25% Oral gel",
+    "description": "Corticosteroids for local oral treatment",
+    "cost": 0
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf910d",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Benzydamine",
+    "dose": "5% Oral gel",
+    "description": "Other agents for local oral treatment",
+    "cost": 0
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf910e",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Magnesium hydroxide ",
+    "dose": "1.5g suspension",
+    "description": "Magnesium compounds",
+    "cost": 0.18
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf910f",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Aluminum Hydroxide/Alugel, Amphojel",
+    "dose": "600 mg tab",
+    "description": "Aluminium compounds",
+    "cost": 0.08
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9110",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Almagel Plus Equiv/Almagel Plus",
+    "dose": "oral liq",
+    "description": "Aluminium compounds",
+    "cost": 19.02
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9111",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Aluminium hydroxide ",
+    "dose": "1.5g suspension",
+    "description": "Aluminium compounds",
+    "cost": 0.81
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9112",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Calcium Carbonate Chewable/Tums",
+    "dose": "500 mg tab",
+    "description": "Calcium compounds",
+    "cost": 0.11
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9113",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Calcium Carbonate Chewable/Tums Ultra",
+    "dose": " 1000 mg tab",
+    "description": "Calcium compounds",
+    "cost": 0.12
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9114",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Calcium carbonate ",
+    "dose": "1.5g suspension",
+    "description": "Calcium compounds",
+    "cost": 0.16
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9115",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Almagate ",
+    "dose": "1.5g suspension",
+    "description": "Combinations and complexes of aluminium, calcium and magnesium compounds",
+    "cost": 0
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9116",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Aluminium hydroxide/simethicone",
+    "dose": "1.5g suspension",
+    "description": "Antacids with antiflatulents",
+    "cost": 0
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9117",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Magaldrate/simethicone",
+    "dose": "1.5g suspension",
+    "description": "Antacids with antiflatulents",
+    "cost": 0.39
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9118",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Magnesium hydroxide/simethicone",
+    "dose": "1.5g suspension",
+    "description": "Antacids with antiflatulents",
+    "cost": 0
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9119",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Cimetidine",
+    "dose": "200 mg tab ",
+    "description": "H2-receptor antagonists",
+    "cost": 0.57
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf911a",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Cimetidine",
+    "dose": "300 mg tab ",
+    "description": "H2-receptor antagonists",
+    "cost": 0.9
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf911b",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Cimetidine",
+    "dose": "150mg/mL inj",
+    "description": "H2-receptor antagonists",
+    "cost": 0.18
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf911c",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Cimetidine",
+    "dose": "300mg/5mL oral solution",
+    "description": "H2-receptor antagonists",
+    "cost": 0.21
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf911d",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Famotidine",
+    "dose": "10mg tab",
+    "description": "H2-receptor antagonists",
+    "cost": 0.23
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf911e",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Famotidine",
+    "dose": "20mg tab",
+    "description": "H2-receptor antagonists",
+    "cost": 0.3
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf911f",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Famotidine",
+    "dose": "40mg tab",
+    "description": "H2-receptor antagonists",
+    "cost": 0.98
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9120",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Famotidine",
+    "dose": "10mg/mL inj",
+    "description": "H2-receptor antagonists",
+    "cost": 0.32
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9121",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Famotidine",
+    "dose": "40mg/5mL oral suspension",
+    "description": "H2-receptor antagonists",
+    "cost": 2.18
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9122",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Nizatidine",
+    "dose": "15mg/mL oral solution",
+    "description": "H2-receptor antagonists",
+    "cost": 0.03
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9123",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Nizatidine",
+    "dose": "75mg tab",
+    "description": "H2-receptor antagonists",
+    "cost": 0.23
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9124",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Ranitidine/Zantac(Adults)",
+    "dose": "50 mg/2 mL Inj",
+    "description": "H2-receptor antagonists",
+    "cost": 0.48
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9125",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Ranitidine/Zantac(Pediatrics)",
+    "dose": "50 mg/2 mL Inj",
+    "description": "H2-receptor antagonists",
+    "cost": 0.48
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9126",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Ranitidine/Zantac",
+    "dose": "15 mg/mL oral liq",
+    "description": "H2-receptor antagonists",
+    "cost": 4.07
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9127",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Ranitidine/Zantac",
+    "dose": "150 mg Tab",
+    "description": "H2-receptor antagonists",
+    "cost": 0.48
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9128",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Ranitidine/Zantac",
+    "dose": "300 mg tab ",
+    "description": "H2-receptor antagonists",
+    "cost": 0.72
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9129",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Misoprostol sr",
+    "dose": "100mcg tab",
+    "description": "Prostaglandins",
+    "cost": 0.46
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf912a",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Misoprostol sr",
+    "dose": "200mcg tab",
+    "description": "Prostaglandins",
+    "cost": 0.98
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf912b",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Dexlansoprazole/Dexilant",
+    "dose": "120 mg enteric coated Tab",
+    "description": "Proton-Pump Inhibitors",
+    "cost": 9.92
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf912c",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Esomeprazole/Nexium",
+    "dose": "20 mg enteric coated Tab",
+    "description": "Proton-Pump Inhibitors",
+    "cost": 2.376
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf912d",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Esomeprazole/Nexium",
+    "dose": "40 mg enteric coated Tab",
+    "description": "Proton-Pump Inhibitors",
+    "cost": 2.376
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf912e",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Lansoprazole/Prevacid",
+    "dose": "30 mg enteric coated Tab",
+    "description": "Proton-Pump Inhibitors",
+    "cost": 2.27
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf912f",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Lansoprazole/Prevacid",
+    "dose": "15 mg enteric coated Tab",
+    "description": "Proton-Pump Inhibitors",
+    "cost": 2.16
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9130",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Lansoprazole/Prevacid Fastab",
+    "dose": "15 mg enteric coated oral dissolving Tab ",
+    "description": "Proton-Pump Inhibitors",
+    "cost": 0
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9131",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Lansoprazole/Prevacid Fastab",
+    "dose": "30 mg enteric coated oral dissolving Tab",
+    "description": "Proton-Pump Inhibitors",
+    "cost": 0
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9132",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Omeprazole/Losec",
+    "dose": "10 mg enteric coated Tab",
+    "description": "Proton-Pump Inhibitors",
+    "cost": 1.78
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9133",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Omeprazole/Losec",
+    "dose": "10 mg enteric coated CAP",
+    "description": "Proton-Pump Inhibitors",
+    "cost": 0.98
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9134",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Omeprazole/Losec",
+    "dose": "20 mg enteric coated Tab",
+    "description": "Proton-Pump Inhibitors",
+    "cost": 1.2226
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9135",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Pantoprazole/Pantaloc",
+    "dose": "40 mg Inj",
+    "description": "Proton-Pump Inhibitors",
+    "cost": 2.18834
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9136",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Pantoprazole/Pantaloc",
+    "dose": "40 mg/100 mL NS mini-bag plus",
+    "description": "Proton-Pump Inhibitors",
+    "cost": 5.17
+  },
+  {
+    "_id": "5f2c99cb1d79460011cf9137",
+    "category": "ALIMENTARY TRACT AND METABOLISM",
+    "name": "Pantoprazole/Pantaloc",
+    "dose": "20 mg enteric coated Tab",
+    "description": "Proton-Pump Inhibitors",
+    "cost": 0.32
+  }
+]

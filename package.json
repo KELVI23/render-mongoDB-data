@@ -1,0 +1,16 @@
+{
+  "name": "cyberpatient",
+  "version": "1.0.0",
+  "description": "backend and frontend in nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelvin Musodza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "latest",
+    "pug": "latest",
+    "mongoose": "latest"
+}
+}

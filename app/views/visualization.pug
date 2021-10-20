@@ -1,0 +1,16 @@
+//- We will extend the base(.pug) view... adheres to the basic structure defined in base
+extends base
+
+block styles
+    link(rel='stylesheet', href='/public/visualization/style.css') 
+
+block content
+    //- We will use the title passed to the view through the server's response as h1 header
+    h1 #{title}
+    //- If the button gets pressed, execute the function loadData defined in the script loaded at the bottom
+    button(type="button" onclick="loadData()") Load relationships from API
+
+    
+    
+  
+    

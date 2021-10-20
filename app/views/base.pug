@@ -1,0 +1,22 @@
+//- This is the base of our views. All other views will extend this view in the "block" part(s)
+
+html
+    head
+    
+        //- 
+            The title of the page we will get from a variable (title) passed to the view (or the ones that inherit from it)
+            through the server's response.
+            See app/controllers/frontend.js for examples
+        title= title
+        link(rel='stylesheet', href='/public/global.css')
+        
+        //-
+            "block styles" means: if a view extends this one, they can define a block called "style" which will be rendered here
+            You can multiple blocks in your view, and when you extend them you can extend different parts of the original HTML
+        block styles
+        meta(charset="utf-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    body
+        .wrapper
+            //- Here we see another block section, this time called "content"
+            block content

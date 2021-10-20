@@ -1,0 +1,116 @@
+table {
+    margin: 0 auto;
+    font-size: large;
+    border: 1px solid black;
+	
+}
+
+h1 {
+    text-align: center;
+    color: #006600;
+    font-size: xx-large;
+    font-family: 'Gill Sans',
+    'Gill Sans MT', ' Calibri',
+    'Trebuchet MS', 'sans-serif';
+}
+
+td {
+    background-color: #E4F5D4;
+    border: 1px solid black;
+}
+
+th, td {
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+td {
+    font-weight: lighter;
+}
+
+#myInput{
+    background-image: url('/public/images/searchicon.png'); /* Add a search icon to input */
+    background-position: left center; /* Position the search icon */
+    background-size: 20px;
+    background-repeat: no-repeat; 
+    padding: 5px; 
+    margin-bottom: 5px; 
+    text-align:right;
+    float:right;
+}
+
+#filters{
+  
+    display: flex;
+    flex-direction:row;
+    background-color: #f5e4d3;
+    color: #ffffff;
+    width: 100px;
+    line-height: 100px;
+    text-align: center;
+    margin: 10px;
+    /* display: none; Hidden by default */
+  }
+
+  /* Style the buttons */
+.btn {
+    
+    border: none;
+    outline: none;
+    padding: 12px 16px;
+    background-color: #e4d3f5;
+    cursor: pointer;
+  }
+
+  
+  /* Add a light grey background on mouse-over */
+  .btn:hover {
+    background-color: rgb(8, 242, 250);
+  }
+  
+  /* Add a dark background to the active button */
+  .btn.active {
+    background-color: rgb(50, 156, 17);
+    color: white;
+  }
+.container{
+    display: flex;
+}
+  #filtered{
+    background-image: url('/public/images/funnel-icon-green.png'); /* Add a filter icon to input */
+    background-position: right center; /* Position the search icon */
+    background-size: 20px;
+    background-repeat: no-repeat; 
+    padding: 5px; 
+    visibility:hidden;
+    background-color: #5a023a;
+    color: #43e280;
+    width: 200px;
+    
+  }
+
+#container{
+    max-height: 600px;
+	  margin:0px auto; 
+	  padding:40px 0; 
+}
+
+#scrollbox{ 
+    margin-left:20px ;
+	  width:95%; 
+	  height:400px;  
+	  overflow:auto;
+    overflow-x:hidden; 
+}
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
